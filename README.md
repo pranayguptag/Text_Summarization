@@ -127,6 +127,6 @@ Contributions are welcome\! If you have suggestions for improvements or new feat
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE). *(Create a `LICENSE` file in your repository)*
+This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 -----
