@@ -120,7 +120,14 @@ The application follows a straightforward client-server architecture, with Strea
   * **Frontend & Backend Framework:** `Streamlit`
   * **Text Summarization:** `txtai`
   * **PDF Parsing:** `PyPDF2`
+---
 
+## 📸 Screenshots
+
+![Text Summarization](https://github.com/pranayguptag/Text_Summarization/blob/main/Media/Text_Summarization.png)
+![Document Summarization](https://github.com/pranayguptag/Text_Summarization/blob/main/Media/Document_Summarization.png)
+
+---
 ## 🤝 Contributing
 
 Contributions are welcome\! If you have suggestions for improvements or new features for this summarization tool, or want to contribute to expanding it into the full Document-Aware AI Assistant, please open an issue or submit a pull request.
